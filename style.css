@@ -3,6 +3,9 @@ body {
 }
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 500;
+    max-height: 700;
+    padding-left: 200;
 }
 
 body {
@@ -14,3 +17,8 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
 }
+
+/*
+selects the HTML element with the id 'main-header' (e.g. <h1 id='main-header'>)
+*/
+#main-header
