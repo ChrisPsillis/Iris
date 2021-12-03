@@ -21,16 +21,9 @@ body {
     margin: 20px;
   }
 
-
 h1 {
     border: 1px solid #000;
-}
-
-table, th, tr {
-    text-align: justify;
-    border-color: indigo;
-}
-/*
+}/*
 selects the HTML element with the id 'main-header' (e.g. <h1 id='main-header'>)
 */
 #main-header
