@@ -1,3 +1,16 @@
 body {
     background: rgb(159, 248, 159)
 }
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    color: Orange;
+}
+
+h1 {
+    color:hotpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
